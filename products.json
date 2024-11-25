@@ -1,0 +1,4 @@
+[
+    {"id": 1, "name": "Smartphone", "category": "Electronics", "price": 499.99, "description": "Latest model", "image": "smartphone.jpg"},
+    {"id": 2, "name": "Laptop", "category": "Computers", "price": 899.99, "description": "Powerful and lightweight", "image": "laptop.jpg"}
+]
